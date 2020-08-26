@@ -7025,6 +7025,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "SecPoint",
+    "policy_url": "https://www.secpoint.com/",
+    "submission_url": "support@secpoint.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Secure Cyber Future",
     "policy_url": "https://www.securecyberfuture.com/responsible-disclosure",
     "submission_url": "contact@securecyberfuture.com",
